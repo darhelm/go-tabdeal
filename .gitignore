@@ -1,0 +1,5 @@
+*.env
+build
+dist
+go-tabdeal/.idea
+diff.txt
